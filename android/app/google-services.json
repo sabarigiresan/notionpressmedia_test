@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "114753892027",
+    "project_id": "notionpress-test",
+    "storage_bucket": "notionpress-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114753892027:android:dc164c76cfe6e960ee039e",
+        "android_client_info": {
+          "package_name": "com.notionpress.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114753892027-f73t8cp7kcuhs6a1un0knqme2qgj9kv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notionpress.task",
+            "certificate_hash": "13684b8785ccb22fa9d73c897147858433781663"
+          }
+        },
+        {
+          "client_id": "114753892027-pl867ofi27f9rphcc4t65ut96hv65val.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_u0dzfHNXROF9Q6NpwO1x2_L4_gzGFOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114753892027-pl867ofi27f9rphcc4t65ut96hv65val.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
